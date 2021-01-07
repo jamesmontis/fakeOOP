@@ -1,5 +1,5 @@
 # fakeOOP
 
-# Welcome to Durkadur 101, i'm professor Durkadur
-
+# Welcome to Derp 101, i'm professor Derp
+# JM created this
 # type
